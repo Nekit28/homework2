@@ -96,7 +96,7 @@ public class Main {
         System.out.println("Всего человек в компании" + AllWorkers + "человек");
         var AllWorkers2 = AllWorkers + 94;
         var AllTime2 = AllWorkers2 * WorkTime;
-        System.out.println("Если в компании работае" + AllWorkers2 + "человек" + ",то всего" + AllTime2 + "часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работае"  + AllWorkers2 +  "человек" + ",то всего" + AllTime2 + "часов работы может быть поделено между сотрудниками");
     }
 }
 
